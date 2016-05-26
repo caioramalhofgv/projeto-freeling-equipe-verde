@@ -1,0 +1,11 @@
+#+Title: Projeto Freeling
+
+O projeto do Freeling está descrito na aula 19. Pode parecer
+complicado ler no arquivos de afixos.dat do freeling, mas isto não é
+essencial, vcs podem identificar o que precisam dele e simplesmente
+criar um arquivo mais simples com as informações já no melhor formato
+para serem usadas pelo algorítmo de vcs.
+
+Vejam =start.lisp= e discussão em
+https://github.com/TALP-UPC/FreeLing/issues/6 para entender o contexto
+que gerou a idéia deste projeto.
